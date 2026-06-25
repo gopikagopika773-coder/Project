@@ -1,0 +1,6 @@
+{
+  "name": "7-Day Content Calendar",
+  "description": "Create a fully personalized 7-day social media content calendar for any business or niche, complete with captions, post formats, timings, and custom hashtag ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
